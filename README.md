@@ -1,4 +1,6 @@
 # What do computer scientists do and why does it matter?
 Put simply, computer scientists try new technologies in their code base or devise new ways to optimize existing processes every day. They do this by following the scientific method of hypothesis, experimentation, and analysis.
 # How do I approach a problem as a computer scientist?
+The most difficult thing for newcomers to this field, in my opinion, is just defining the problem. This entails accurately defining the problem's scope and determining which system components require attention. Determining the data flow is all that remains to be done after these two steps are established. With these three components, anyone can come up with a solution for any issue.
 # What are my ethical responsibilities to the end user and the organization?
+It's challenging to provide a specific response to this question because I don't want to "hard code" ethical guidelines that are unduly strict or that prohibit me from offering the service that my end user has requested. In my opinion, being honest is always the best course of action. In many ethical situations, consent makes the difference between what is moral and what is immoral. The ethical dilemma has been addressed if it is thought to be reasonable that the end user is aware of how their data is being used.
